@@ -1,6 +1,6 @@
 <template>
   <pre>
-
+    hash: 
     {{ hash }}
   </pre>
 </template>
